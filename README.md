@@ -5,7 +5,7 @@ ChainOpera AI 是一个创新的区块链 Layer 1（L1）和人工智能操作�
 
 空投情况：ChainOpera AI 已确认正在进行空投活动（Airdrop），目前处于 Season 2 阶段（2025年1月4日开始）
 
-注册：https://chat.chainopera.ai/
+注册：[https://chat.chainopera.ai/](https://chainopera.ai/quest/?inviteCode=LYL0G3YZ)
 
 
 # chainopera bot脚本使用教程
